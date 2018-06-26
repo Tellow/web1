@@ -1,0 +1,23 @@
+<!doctype html>
+<html>
+<head>
+  <title>WEB - html</title>
+  <meta charset="utf-8">
+</head>
+
+<body>
+<h1><a href="index">WEB</a></h1>
+<ol>
+  <li><a href="1">HTML</a></li>
+  <li><a href="2">CSS</a></li>
+  <li><a href="3">JavaScript</a></li>
+</ol>
+<h2>HTML</h2>
+<p><a href="https://search.naver.com/search.naver?sm=tab_hty.top&where=nexearch&query=%EA%B5%AC%EA%B8%80&oquery=%EC%A7%80%EB%93%9C%EB%9E%98%EA%B3%A4&tqi=Tzt9XspySEKsssnuZuKssssssO0-185001" target="_blank" title="이태화">Hypertext Markup Language (HTML)</a> 은 뭐시기 어쩌고 저쩌고 블라블라 구글은 <strong>'페이지 랭크'</strong>라는 독자적인 검색 알고리즘을 개발해 검색 시장을 장악하고 성장한 세계 최대 인터넷 검색 서비스 회사다. 구글은 전 세계 60개국 이상에 지사를 두고, <u>130개가 넘는 언어</u>로 검색 인터페이스를 제공하고 있다. 구글이란 이름은 10의 100 제곱을 뜻하는 수학 용어 구골(googol)에서 유래했다.</p>
+
+<p>1996년 스탠포드대학 박사과정에 재학 중이던 래리 페이지(Larry Page), 세르게이 브린(Sergey Brin)은 '페이지랭크'라는 검색 기술을 개발했다. 웹사이트의 중요도를 그 사이트로 연결되는 백링크를 따져 결정되도록 한 이 기술이 구글의 시초이다. 이들은 이 기술을 기반으로 1998년 공동으로 구글을 설립했다.
+[네이버 지식백과] 구글 [Google] (네이버 기관단체사전 : 기업, 굿모닝미디어)
+</p>
+
+</body>
+</html>
